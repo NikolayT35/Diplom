@@ -4,7 +4,7 @@
 
 Описание задания можно найти здесь - https://github.com/netology-code/qa-diploma
 
-Описание тестовых сценариев, запланированных для автоматизации, можно посмотреть здесь - [Plan](https://github.com/NikolayT35/Diplom/blob/main/Documents/Plan.md)
+Описание тестовых сценариев, запланированных для автоматизации, можно посмотреть здесь - [Plan](https://github.com/NikolayT35/Diplom2/blob/main/Documents/Plan.md)
 
 Перед запуском автотестов необходимо убедиться, что на компьютере, где они будут запускаться, установлены Docker Desktop, IntelliJ IDEA и Java 11.
 Как запустить автотесты
@@ -21,5 +21,5 @@
 
 **Вариант 2** (с подключением к PostgreSQL) gradlew test -Ddatabase.url=jdbc:postgresql://localhost:5432/postgres -Ddatabase.name=postgres -Ddatabase.password=mysecretpassword
 
-Отчеты о проделанной работе можно посмотреть здесь - [Report](https://github.com/NikolayT35/Diplom/blob/main/Documents/Report.md), [Summary](https://github.com/NikolayT35/Diplom/blob/main/Documents/Summary.md)
+Отчеты о проделанной работе можно посмотреть здесь - [Report](https://github.com/NikolayT35/Diplom2/blob/main/Documents/Report.md), [Summary](https://github.com/NikolayT35/Diplom2/blob/main/Documents/Summary.md)
 
